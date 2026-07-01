@@ -91,5 +91,4 @@ The following analytical queries were implemented in both MongoDB and Cassandra:
 ```text
 ├── CasandraKS.ipynb
 ├── MongoKS.ipynb
-├── kick_starter.csv
 └── README.md
